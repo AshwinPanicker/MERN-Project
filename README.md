@@ -56,3 +56,8 @@ The purpose of this project is to develop a food delivery app using the MERN (Mo
 **Admin Panel Order Page**
 
 ![Order-ShackSnack](https://github.com/AshwinPanicker/project_1/assets/107415263/635753b3-dc2d-4103-b0e7-81f4fc6408c5)
+
+
+# LIVE APP DEMO
+
+https://shacksnack.netlify.app
